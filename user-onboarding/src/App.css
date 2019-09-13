@@ -1,0 +1,16 @@
+html {
+  background: #000000;
+  color: #ffffff;
+}
+Form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-self: center;
+  margin: 5rem auto auto auto;
+  width: 20rem;
+}
+
+.top {
+  margin-top: 5rem;
+}
